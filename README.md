@@ -1,7 +1,5 @@
 # A3 High Energy Physics Coursework
 
-**Author:** Baiyuan Chen (bc654)
-
 ## Data
 
 Download `data.root` and `mc.root` from [CERN](https://cern.ch/mkenzie/mphil/assignment/2526/) into `../../data/` relative to this directory:
